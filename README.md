@@ -17,5 +17,7 @@ The dataset released here include:
 * The IDs of 32M non-retweet tweets posted within the 9-month period.
   * total number of tweets: 32,435,958; filename: `tweets_org_ids.csv.zip`
 
+Note that based on Twitter's [Developer Policy](https://dev.twitter.com/overview/terms/agreement-and-policy) places limits on the sharing of datasets. Therefore, we are only publicly sharing the ids of the tweets, not the tweets themselves. If you want to use the dataset, you may retrieve the complete tweets from the Twitter API based on the tweet ids. Any tweets that have been deleted or become protected will not be available. There are tools, e.g., [Hydrator](https://github.com/DocNow/hydrator), which could be useful for retrieving tweets from the Twitter API based on tweet ids. Also note that Twitter places rate limits on API requests so this may take some time depending on the size of the dataset.
+
 ## References
 [1] Yan, M., Wen, X., Lin, Y.-R., Deng, L. (2017). Quantifying Content Polarization on Twitter. In Proceedings of 2017 IEEE International Conference on Collaboration and Internet Computing (IEEE CIC 2017) 
