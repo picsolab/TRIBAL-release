@@ -12,10 +12,10 @@ The data collection involves multiple steps.
 
 The dataset released here include:
 * The IDs of 214K users from two groups:
-** con group (Trump supporters)  : 111,528; filename: `users_ids_con.csv.zip`
-** lib group (Clinton supporters): 102,499; filename: `users_ids_lib.csv.zip`
+  * con group (Trump supporters)  : 111,528; filename: `users_ids_con.csv.zip`
+  * lib group (Clinton supporters): 102,499; filename: `users_ids_lib.csv.zip`
 * The IDs of 32M non-retweet tweets posted within the 9-month period.
-** total number of tweets: 32,435,958; filename: `tweets_org_ids.csv.zip`
+  * total number of tweets: 32,435,958; filename: `tweets_org_ids.csv.zip`
 
 ## References
 [1] Yan, M., Wen, X., Lin, Y.-R., Deng, L. (2017). Quantifying Content Polarization on Twitter. In Proceedings of 2017 IEEE International Conference on Collaboration and Internet Computing (IEEE CIC 2017) 
