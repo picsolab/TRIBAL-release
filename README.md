@@ -1,5 +1,5 @@
 # TRIBAL
-This git provides information about the TRIBAL project. The project outcome, including sharable data and programs, will be posted here when available.
+This repository contains the dataset used in the TRIBAL project.
 
 ## Dataset
 
@@ -21,3 +21,11 @@ Note that based on Twitter's [Developer Policy](https://dev.twitter.com/overview
 
 ## References
 [1] Yan, M., Wen, X., Lin, Y.-R., Deng, L. (2017). Quantifying Content Polarization on Twitter. In Proceedings of 2017 IEEE International Conference on Collaboration and Internet Computing (IEEE CIC 2017) 
+
+
+## Related repositories:
+* [picsolab/Annotation_Tweeets_Emotion_Value: Human annotation for gun relevant tweets](https://github.com/picsolab/Annotation_Tweeets_Emotion_Value) 
+* [picsolab/MimicProp](https://github.com/picsolab/MimicProp) 
+* [picsolab/TRIBAL-analytics-interpreter: A visual analytic system for interpreting and understanding TRIBAL project](https://github.com/picsolab/TRIBAL-analytics-interpreter) 
+* [picsolab/TRIBAL_MultiTask_Prediction](https://github.com/picsolab/TRIBAL_MultiTask_Prediction) 
+* [picsolab/COLING2020-BiasStudy](https://github.com/picsolab/COLING2020-BiasStudy) 
