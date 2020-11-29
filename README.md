@@ -26,6 +26,7 @@ Note that based on Twitter's [Developer Policy](https://dev.twitter.com/overview
 ## Related repositories:
 * [picsolab/Annotation_Tweeets_Emotion_Value: Human annotation for gun relevant tweets](https://github.com/picsolab/Annotation_Tweeets_Emotion_Value) 
 * [picsolab/MimicProp](https://github.com/picsolab/MimicProp) 
+* [picsolab/ContextFilter](https://github.com/picsolab/ContextFilter) 
 * [picsolab/TRIBAL-analytics-interpreter: A visual analytic system for interpreting and understanding TRIBAL project](https://github.com/picsolab/TRIBAL-analytics-interpreter) 
 * [picsolab/TRIBAL_MultiTask_Prediction](https://github.com/picsolab/TRIBAL_MultiTask_Prediction) 
 * [picsolab/COLING2020-BiasStudy](https://github.com/picsolab/COLING2020-BiasStudy) 
